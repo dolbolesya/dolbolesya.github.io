@@ -6,3 +6,4 @@ independentWork_1: welcome to .html
 create: standart html construction. 
 add tegs: div, h1-h6, br, p.
 
+practikWork_1: use css.
