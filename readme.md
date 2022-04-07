@@ -6,3 +6,6 @@ independentWork_1: welcome to .html
 create: standart html construction. 
 add tegs: div, h1-h6, br, p.
 
+practicWork_1:
+format text and media(photo) with css
+
