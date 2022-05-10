@@ -7,3 +7,4 @@ lecturer: Янковський О.Г. (тимчасово не викладає)
 <a href="https://dolbolesya.github.io/independentWork_1/main.html"> Самостійна 1 </a>
 
 <a href="https://dolbolesya.github.io/practicWork_1/main.html"> Практична 1 </a>
+<a href="https://dolbolesya.github.io/practicWork_2/main.html"> Практична 2 </a>
