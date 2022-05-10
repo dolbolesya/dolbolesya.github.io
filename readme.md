@@ -10,3 +10,4 @@ practicWork_1:
 format text and media(photo) with css
 
 <a href="https://dolbolesya.github.io/independentWork_1/main.html"> Самостійна 1 </a>
+<button>
