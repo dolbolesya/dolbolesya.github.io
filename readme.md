@@ -2,12 +2,10 @@ group "CS221", Solomianyi O.
 
 This repository was created for laboratory work on the subject of "web technologies"
 
-independentWork_1: welcome to .html
-create: standart html construction.
-add tegs: div, h1-h6, br, p.
+lecturer: Янковський О.Г. (тимчасово не викладає), Трофіменко Е.Г. (тимчасовий викладач), Манаков С.Ю. 
 
-practicWork_1:
-format text and media(photo) with css
+
 
 <a href="https://dolbolesya.github.io/independentWork_1/main.html"> Самостійна 1 </a>
-<button>
+
+<a href="https://dolbolesya.github.io/practicWork_1/main.html"> Практична 1 </a>
