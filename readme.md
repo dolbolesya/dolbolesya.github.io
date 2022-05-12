@@ -9,4 +9,3 @@ lecturer: Янковський О.Г. (тимчасово не викладає)
 <a href="https://dolbolesya.github.io/practicWork_1/main.html"> Практична 1 </a>
 
 <a href="https://dolbolesya.github.io/practicWork_2/main.html"> Практична 2 </a>
-[text](https://dolbolesya.github.io/practicWork_2/main.html)
