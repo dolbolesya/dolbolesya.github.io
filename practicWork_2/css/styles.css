@@ -1,7 +1,29 @@
-#nav{
-  position: sticky;
+.bandana{
   text-align: center;
-  background-color: aquamarine;
-  width: 10%;
-  height: 100%;
+  font-size:small;
+  background-color: #E9EFC0;
+  height: 70px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  font-family:URW Chancery L, cursive;
+  color: #45a14b;
+}
+
+html, body
+{
+    margin: 0px; padding: 0px
+}
+
+body{
+  background-color: #83BD75;
+}
+footer{
+  background-color: #4E944F;
+  height: 100px;
+  width: 100%;
+  position: ;
+  bottom: 0;
+  left: 0;
+  
 }
