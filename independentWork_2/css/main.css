@@ -46,9 +46,7 @@ body {
 	will-change: transform;
 	transition: .3s;
 }
-.gallery__item:hover {
-	transform: scale(1.03);
-}
+
 .gallery__item img {
 	width: 100%;
 	display: block;
