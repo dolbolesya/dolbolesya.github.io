@@ -15,7 +15,9 @@ lecturer: Янковський О.Г. (тимчасово не викладає)
 
 [Практична 1](https://dolbolesya.github.io/practicWork_1/main.html)
 
-[Практична 2](https://dolbolesya.github.io/practicWork_2/main.html)
+[Практична 2](https://dolbolesya.github.io/practicWork_2/index.html)
+
+[Практична 3](https://dolbolesya.github.io/practicWork_3/index.html)
 
 [Практична 3](https://dolbolesya.github.io/practicWork_3/index.html)
 
