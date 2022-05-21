@@ -14,6 +14,11 @@ lecturer: Янковський О.Г. (тимчасово не викладає)
 
 [Самостійна 5](https://dolbolesya.github.io/independentWork_5/main.html)
 
+[Самостійна 6](https://dolbolesya.github.io/independentWork_6/main.html)
+
+
+
+
 
 [Практична 1](https://dolbolesya.github.io/practicWork_1/main.html)
 
