@@ -8,6 +8,10 @@ lecturer: Янковський О.Г. (тимчасово не викладає)
 
 [Самостійна 2](https://dolbolesya.github.io/independentWork_2/index.html)
 
+[Самостійна 3]()//залить сайт на хостинг(github)
+
+[Самостійна 4](https://dolbolesya.github.io/independentWork_4/index.html)
+
 
 [Практична 1](https://dolbolesya.github.io/practicWork_1/main.html)
 
