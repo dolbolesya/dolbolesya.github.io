@@ -16,7 +16,7 @@ lecturer: Янковський О.Г. (тимчасово не викладає)
 
 [Самостійна 6](https://dolbolesya.github.io/independentWork_6/main.html)
 
-
+Самостійна 8 (завантажити всі роботи на хостинг (github))
 
 
 
